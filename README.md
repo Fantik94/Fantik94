@@ -4,7 +4,7 @@ Je suis passionné de toutes les technologies tournant autour du web et des SI. 
 
 ## Ce que je fais couramment: 
 
-- Développement d'applications web avec **React** et **Vite**, le framework qui me plait de plus pour le moment ! 🚀
+- Développement d'applications web avec **React** et **Vite**, le framework qui me plait le plus pour le moment ! 🚀
 - Création d'API REST performantes et robustes avec **Node.js**.
 - Expertise en tests automatisés, aussi bien avec **Selenium** en Python qu'avec **Cypress** pour des tests end-to-end fiables ainsi que des tests de charges et de sécurité.
   
@@ -27,3 +27,9 @@ Je suis passionné de toutes les technologies tournant autour du web et des SI. 
 ---
 
 N'hésite pas à consulter mes projets pour en savoir plus sur ce que je fais !
+
+## Mon Portfolio
+fantikspace.com
+---
+
+
