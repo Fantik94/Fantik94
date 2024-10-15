@@ -1,14 +1,14 @@
-# Bienvenue sur mon github. Je suis Baptiste 👋
+# Welcome to my GitHub. I'm Baptiste 👋
 
-Je suis passionné de toutes les technologies tournant autour du web et des SI. Actuellement en Master 2 pour obtenir le diplome suivant : Expert en Étude et Développement du SI (option dev web).
+I am passionate about web technologies and Information Systems. Currently pursuing a Master’s degree in Information Systems Development with a specialization in web development.
 
-## Ce que je fais couramment: 
+## What I specialize in:
 
-- Développement d'applications web avec **React** et **Vite**, le framework qui me plait le plus pour le moment ! 🚀
-- Création d'API REST performantes et robustes avec **Node.js**.
-- Expertise en tests automatisés, aussi bien avec **Selenium** en Python qu'avec **Cypress** pour des tests end-to-end fiables ainsi que des tests de charges et de sécurité.
-  
-## Langages et Outils Favoris
+- Developing web applications using **React** and **Vite**, the framework I enjoy the most at the moment! 🚀
+- Building performant and robust REST APIs with **Node.js**.
+- Expertise in automated testing, including **Selenium** with Python and **Cypress** for end-to-end, load, and security testing.
+
+## Favorite Languages and Tools
 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
@@ -19,17 +19,13 @@ Je suis passionné de toutes les technologies tournant autour du web et des SI. 
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
+## GitHub Stats
 
-## Statistiques de mon GitHub
-
-![Les langues que j'utilise](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantik94&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantik94&layout=compact)
 
 ---
 
-N'hésite pas à consulter mes projets pour en savoir plus sur ce que je fais !
+Feel free to explore my projects to learn more about what I do!
 
-## Mon Portfolio
+## My Portfolio
 [Fantik'sPace](https://fantikspace.com)
-
-
-
