@@ -29,7 +29,7 @@ Je suis passionné de toutes les technologies tournant autour du web et des SI. 
 N'hésite pas à consulter mes projets pour en savoir plus sur ce que je fais !
 
 ## Mon Portfolio
-![fantikspace.com] Fantik'sPace
----
+[Fantik'sPace](https://fantikspace.com)
+
 
 
