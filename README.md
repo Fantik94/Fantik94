@@ -28,4 +28,4 @@ I am passionate about web technologies and Information Systems. Currently pursui
 Feel free to explore my projects to learn more about what I do!
 
 ## My Portfolio
-[](https://ringlerbaptiste.fr)
+[ringlerbaptiste.fr](https://ringlerbaptiste.fr)
